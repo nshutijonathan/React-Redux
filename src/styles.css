@@ -15,4 +15,11 @@ a {
 .btn {
   display: inline-block;
   background: #555;
+  border: none;
+  color: #fff;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+.btn:hover {
+  background: #666;
 }
